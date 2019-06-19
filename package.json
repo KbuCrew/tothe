@@ -1,0 +1,25 @@
+{
+  "name": "tothe",
+  "version": "1.0.0",
+  "description": "React WebApplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KbuCrew/tothe.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "sah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KbuCrew/tothe/issues"
+  },
+  "homepage": "https://github.com/KbuCrew/tothe#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}
