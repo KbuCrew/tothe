@@ -9,7 +9,7 @@ class Home extends React.Component{
       render(){
           return(
               <div>
-                BEN HUSAMaaaa YANIMDA BİLAL
+                BEN HUSAMaaaa sssssYANIMDA BİLAL
               </div>
           )
       }
